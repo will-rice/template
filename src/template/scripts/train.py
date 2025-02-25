@@ -1,6 +1,7 @@
 """Train script."""
 
 def main() -> None:
+    """Train script."""
     pass
 
 
